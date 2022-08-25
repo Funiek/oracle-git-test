@@ -1,3 +1,4 @@
 CREATE TABLE TESTOWY (
-	name VARCHAR2(100)
+	name VARCHAR2(100),
+    login VARCHAR2(10)
 );
